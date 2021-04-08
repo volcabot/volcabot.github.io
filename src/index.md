@@ -2,4 +2,4 @@
 title: My first page
 layout: base.njk
 ---
-test
+test2
