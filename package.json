@@ -1,0 +1,20 @@
+{
+  "name": "volcabot.com",
+  "version": "1.0.0",
+  "description": "11ty personal page",
+  "main": "index.html",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/volcabot/volcabot.github.io.git"
+  },
+  "author": "Pavol \"Volcabot\" Petras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volcabot/volcabot.github.io/issues"
+  },
+  "homepage": "https://github.com/volcabot/volcabot.github.io#readme"
+}
